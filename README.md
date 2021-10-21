@@ -1,2 +1,2 @@
-# Git-Demo
+# Math library
 This is learning
